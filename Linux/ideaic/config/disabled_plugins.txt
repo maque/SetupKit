@@ -1,9 +1,0 @@
-org.jetbrains.idea.maven
-CVS
-TestNG-J
-hg4idea
-Subversion
-AntSupport
-Coverage
-Git4Idea
-org.jetbrains.plugins.github

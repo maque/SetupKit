@@ -26,3 +26,4 @@ nnoremap <silent> <C-O> :wincmd gf<cr>
 nnoremap <silent> <A-Left> :tabprev<cr>
 nnoremap <silent> <A-Right> :tabnext<cr>
 nnoremap <C-X> :w!<cr>
+nnoremap <silent> <C-N> :set list!<cr> :set number!<cr>
