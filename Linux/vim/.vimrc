@@ -7,7 +7,7 @@ set showmatch
 set encoding=utf8
 syntax enable
 set background=dark
-colorschem solarized
+colorscheme solarized
 set nobackup
 set nowb
 set noswapfile
@@ -27,3 +27,5 @@ nnoremap <silent> <A-Left> :tabprev<cr>
 nnoremap <silent> <A-Right> :tabnext<cr>
 nnoremap <C-X> :w!<cr>
 nnoremap <silent> <C-N> :set list!<cr> :set number!<cr>
+let g:solarized_termcolors=256
+let g:solarized_termtrans=1
